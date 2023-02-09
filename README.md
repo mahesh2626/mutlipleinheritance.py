@@ -1,0 +1,2 @@
+# mutlipleinheritance.py
+mutlipleinheritance.py
